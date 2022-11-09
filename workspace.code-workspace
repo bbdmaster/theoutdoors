@@ -4,7 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "../imgs"
+			"path": "..theoutdoors/imgs"
 		}
 	],
 	"settings": {}
