@@ -7,7 +7,20 @@ body {
   padding-bottom: 3rem;
   color: #010101;
   background-image: url(../theoutdoors/imgs/bgs/gradient2.jpg);
+
 }
+
+#topNavBar {
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  }
+
+ #navItems {
+      font-size: 16pt;
+
+
+ } 
 
 
 /* CUSTOMIZE THE CAROUSEL
