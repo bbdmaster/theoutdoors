@@ -19,6 +19,16 @@ body {
 }
 
 
+.section0 {
+  background-color: #010101;
+  padding: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  align-content: center;
+  text-align: center;
+}
+
+
   .section1 {
     background-color: #919F90;
     padding: 5%;
