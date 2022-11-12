@@ -7,6 +7,28 @@ body {
   background-image: url(../theoutdoors/imgs/bgs/gradient6.jpg);
   }
 
+  .section1 {
+    background-color: #919F90;
+    padding: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+
+.section2 {
+  background-color: #1f586d;
+  padding: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.section3 {
+  background-color: #DBDBDB;
+  padding: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
 #topNavBar {
   justify-content: center;
   align-content: center;
