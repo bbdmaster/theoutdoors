@@ -21,11 +21,17 @@ body {
 
 .section0 {
   background-color: #010101;
-  padding: 5%;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
   align-content: center;
   text-align: center;
+  size-adjust: 70%;
+}
+
+#imgGif {
+  size-adjust: 50%;
+
 }
 
 
