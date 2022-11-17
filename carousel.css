@@ -51,7 +51,7 @@ a:hover, a:active {
 
 
   .section1 {
-    background-color: #919F90;
+    background-color: #26596d;
     padding: 5%;
     padding-left: 5%;
     padding-right: 5%;
@@ -59,7 +59,7 @@ a:hover, a:active {
 
 
 .section2 {
-  background-color: white;
+  background-image: url(../imgs/bgs/gradient2.jpg);
   padding: 5%;
   padding-left: 5%;
   padding-right: 5%;
@@ -89,6 +89,11 @@ a:hover, a:active {
   margin-left: auto;
   margin-right: auto;
   }
+
+.newColor{
+  color: rgb(26, 26, 26);
+  
+}
 
 
 /* CUSTOMIZE THE CAROUSEL
